@@ -1,4 +1,3 @@
-monstra-framework
-=================
+# [Monstra](http://monstra.org)
 
-PHP 5.3 Framework
+Monstra is a framework for PHP web development.

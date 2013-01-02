@@ -1,3 +1,3 @@
-# [Monstra](http://monstra.org)
+# Monstra
 
 Monstra is a framework for PHP web development.

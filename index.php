@@ -1,6 +1,5 @@
 <?php
 
-
 /**
  * Define the name of your application. The name must match the name of the app directory.
  */
@@ -24,4 +23,4 @@ define('MONSTRA_LIBRARIES_PATH', MONSTRA_APPLICATION_PATH . '/libraries');
 /**
  * Init Monstra
  */
-require MONSTRA_LIBRARIES_PATH . '/monstra/_init.php';
+require MONSTRA_LIBRARIES_PATH . '/Monstra/_init.php';
